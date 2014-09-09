@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USTmap</string>
+    <string name="USTmap">UST Google Map</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter Message</string>
+    <string name="title_activity_display_map">USTmap</string>
+    <string name="hello_world">MAP</string>
+    
+
+</resources>
